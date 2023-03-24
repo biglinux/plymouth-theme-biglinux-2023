@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=xivastudio
+Description=loading xivastudio animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xivastudio
+ScriptFile=/usr/share/plymouth/themes/xivastudio/animated-boot.script
