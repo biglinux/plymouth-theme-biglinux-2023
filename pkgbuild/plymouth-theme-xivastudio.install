@@ -27,6 +27,7 @@ fi
 ## arg 2:  the old package version
 post_upgrade() {
 	post_install
+	/usr/lib/plymouth/plymouth-update-initrd
 }
 
 ## arg 1:  the old package version
