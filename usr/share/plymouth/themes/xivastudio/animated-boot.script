@@ -11,7 +11,7 @@ flyingman_sprite = Sprite();
 
 #Place in the center
 flyingman_sprite.SetX(Window.GetWidth() / 2 - flyingman_image[1].GetWidth() / 2); 
-flyingman_sprite.SetY(Window.GetHeight() / 2 - flyingman_image[1].GetHeight() / 2);
+flyingman_sprite.SetY(Window.GetHeight() / 3 - flyingman_image[1].GetHeight() / 3);
 
 progress = 1;
 
